@@ -2,3 +2,4 @@ myenv
 *.pdf
 *.xlsx
 .ipynb_checkpoints
+.env
